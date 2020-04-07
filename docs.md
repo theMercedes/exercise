@@ -5,4 +5,4 @@ Note that this thermometer is now available for use with children during the cur
 place thermometer on forehead and wait 20 seconds
 git
 
-The thermometer is available in many languages.
+The thermometer is available in seven languages.
